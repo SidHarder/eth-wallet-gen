@@ -1,0 +1,18 @@
+{
+  "name": "create-keys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node jason-rpc-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "elliptic": "^6.4.1",
+    "jayson": "^2.1.0",
+    "js-sha3": "^0.8.0",
+    "scryptsy": "^2.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
